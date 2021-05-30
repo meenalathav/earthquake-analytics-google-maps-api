@@ -5,12 +5,14 @@ This project aims to make use of a data set on earthquakes to determine the coor
 <p>
 <p>
   <b>Data set:</b>
-</p> 
-<nbsp/>
 Earthquakes table in index.sqlite db file consisting of earthquake data between 1970 and 2020 downloaded from the http://earthquake.usgs.gov API
+  </p>
 
-<br><br>
-<a href = "./where.html"><b>View the map of the 10 most intensive earthquakes in recent history</b></a>
+<p>
+The Python script creates a list of the largest earthquakes and feeds the latitude and longitude data to the where.js file. 
+ </p>
+
+<p>Opening where.html in a browser displays the Google Map with location markers pinpointing the earthquake locations for the <b>10 most intensive earthquakes in recent history</b></p>
 
 <hr>
 <img alt = "Earthquake locations on Google Map" src = "./resources/googlemaps1.png" />
