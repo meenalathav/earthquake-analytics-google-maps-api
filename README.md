@@ -1,7 +1,7 @@
 # Earthquake Analytics and Visualization using the Google Maps API
 
 <p align = "center">
-This project aims to make use of a data set on earthquakes to determine the coordinate locations of the earthquakes with the largest magnitudes and display these on a map. The magnitude of the earthquake is displayed within the location marker icon.
+This project aims to make use of a data set on earthquakes to determine the coordinate locations of the earthquakes with the largest magnitudes and display these on a map. The magnitude of the earthquake is displayed within the location marker icon on the map.
 <p>
 <p>
   <b>Data set:</b>
